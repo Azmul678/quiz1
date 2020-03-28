@@ -1,23 +1,32 @@
-In which year Daraz Started 12.12?;
+Do you like pranking others?;
 
-2014;
-2015;
-2018;
-2018;
-
-
+I definitely do;
+Sometimes;
+Rarely;
+Sometimes;
 |
-When was united nations founded? ;
-1945;
-1968;
-1946;
-1945;
+Do you find yourself questioning your existence?;
+All the times;
+Sometimes;
+No I don't ;
+All the times;
 |
-What does Bangladesh's flag look like?;
-Blue background with yellow star in centre;
-Green background with red circle in centre;
-Red background with white circle in centre;
-Green background with red circle in centre;
+How often do you get lost in your thoughts?;
+Frequently;
+Rarely;
+All the times;
+All the times;
 |
-
+Which word best describes you?;
+Sarcastic;
+Unlucky;
+Hot-headed;
+Unlucky;
+|
+Have you ever spent a ton of time stalking someone on social media?;
+Of course not;
+Maybe once or twice;
+All the time;
+Maybe once or twice;
+|
 
