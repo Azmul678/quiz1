@@ -1,32 +1,23 @@
-Do you like pranking others?;
+Which one is the independence day of Bangladesh?;
 
-I definitely do;
-Sometimes;
-Rarely;
-Sometimes;
+16th December;
+26th March ;
+21st February;
+26th March;
+
+
 |
-Do you find yourself questioning your existence?;
-All the times;
-Sometimes;
-No I don't ;
-All the times;
+Display Size of Note 20: ;
+6.7'';
+6.5'';
+6.9'';
+6.7'';
 |
-How often do you get lost in your thoughts?;
-Frequently;
-Rarely;
-All the times;
-All the times;
+The benefits of Daraz Collection Point :;
+Free Delivery;
+Flexibility of Product Picking Time;
+Above Two;
+Above Two;
 |
-Which word best describes you?;
-Sarcastic;
-Unlucky;
-Hot-headed;
-Unlucky;
-|
-Have you ever spent a ton of time stalking someone on social media?;
-Of course not;
-Maybe once or twice;
-All the time;
-Maybe once or twice;
-|
+
 

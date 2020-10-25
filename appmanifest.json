@@ -1,11 +1,11 @@
 {
-	"name": "Meme",
-	"short_name": "Meme",
+	"name": "Quiz",
+	"short_name": "Quiz",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "any",
-	"background_color": "#ffc7ca",
+	"background_color": "#3b0301",
 	"icons": [
 		{
 			"src": "icons/icon-16.png",
